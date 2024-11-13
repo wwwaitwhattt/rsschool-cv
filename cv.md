@@ -4,7 +4,7 @@
 # Contacts
 * **Email:** kekma228@gmail.com
 * **Telegram:** @chillkill
-* **Discord:** -
+* **Discord:** go.quokka
 
 # About
 Hey! I'm 20. I'm a third-year student in Moscow University. I like my PC, coding and going to the GYM! I'm very flexible and responsible, I love helping others and do exciting tasks. Now, I am only a trainee in a tech company, but I do wish to become a great specialist in the field of Developing (not only Frontend, but Backend too). In the next year I'am planning to get a **full-time job** as a **Front-end developer**. I work and study at Uni at the same time, I manage my time so that I can do more interesting things!
