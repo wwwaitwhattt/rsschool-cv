@@ -1,1 +1,1 @@
-https://wwwaitwhattt.github.io/rsschool-cv/cv
+https://wwwaitwhattt.github.io/rsschool-cv
